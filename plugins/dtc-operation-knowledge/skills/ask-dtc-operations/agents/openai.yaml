@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ask DTC Operations"
+  short_description: "Route DTC operations questions"
+  default_prompt: "Help me diagnose this DTC operations problem."

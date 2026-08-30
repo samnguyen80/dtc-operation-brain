@@ -1,0 +1,28 @@
+{
+  "name": "dtc-operation-knowledge",
+  "version": "0.1.0",
+  "description": "Evidence-backed DTC ecommerce operations brain: inventory, sourcing, fulfillment, CX, returns, finance, and operating cadence.",
+  "author": {
+    "name": "Sam Nguyen",
+    "url": "https://github.com/samnguyen80"
+  },
+  "homepage": "https://github.com/samnguyen80/dtc-operation-brain",
+  "repository": "https://github.com/samnguyen80/dtc-operation-brain",
+  "license": "MIT",
+  "keywords": ["dtc", "ecommerce", "operations", "inventory", "fulfillment"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "DTC Operations Brain",
+    "shortDescription": "Diagnose and teach DTC operations.",
+    "longDescription": "A source-grounded operating system for DTC founders covering demand planning, inventory, sourcing, 3PL, warehouse, CX, returns, contribution margin, cash, and data controls.",
+    "developerName": "Sam Nguyen",
+    "category": "Productivity",
+    "capabilities": ["Knowledge", "Analysis"],
+    "websiteURL": "https://github.com/samnguyen80/dtc-operation-brain",
+    "defaultPrompt": [
+      "Diagnose my DTC operations bottleneck.",
+      "Teach me one DTC operations concept.",
+      "Build an operations control cadence for my brand."
+    ]
+  }
+}

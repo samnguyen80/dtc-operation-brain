@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teach DTC Operations"
+  short_description: "Learn DTC operations by scenario"
+  default_prompt: "Teach me one important DTC operations concept."

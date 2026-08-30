@@ -1,0 +1,20 @@
+{
+  "name": "dtc-operation-brain",
+  "interface": {
+    "displayName": "DTC Operations Brain"
+  },
+  "plugins": [
+    {
+      "name": "dtc-operation-knowledge",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dtc-operation-knowledge"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

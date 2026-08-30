@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagnose DTC Operations"
+  short_description: "Find the operational constraint"
+  default_prompt: "Diagnose my store operations and give me the next decision."
